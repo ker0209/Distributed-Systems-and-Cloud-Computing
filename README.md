@@ -6,13 +6,21 @@ HELPCONNECT – INTELLIGENT COMMUNITY ASSISTANCE PLATFORM
 ________________________________________
 COVER PAGE
 University: ICT UNIVERSITY
+
 Department: Software Engineering
+
 Course: Distributed Systems and Cloud Computing
+
 Course ID: CS 4122
+
 Project Title: HelpConnect – Intelligent Community Assistance Platform
+
 Student: BOGNE FOUSSOM KERYAN MERVEIL
+
 Student ID: ICTU20241354
+
 Supervisor: Engr. Moune
+
 Academic Year: 2025–2026
 ________________________________________
 TABLE OF CONTENTS
