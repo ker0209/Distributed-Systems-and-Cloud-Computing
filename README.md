@@ -139,10 +139,13 @@ User → API Gateway → Microservices → Database → Kafka → Notifications
 User Service   Help Service        Chat Service
  │                 │                   │
  ▼                 ▼                   ▼
-   ───────────Distributed Database────────────
+ ───────────Distributed Database────────────
+                  
                    │
+                
                  Kafka
                    │
+          
            Notification Service
 ________________________________________
 
