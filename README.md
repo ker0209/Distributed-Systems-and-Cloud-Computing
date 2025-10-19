@@ -128,6 +128,7 @@ User → API Gateway → Microservices → Database → Kafka → Notifications
 •	Analytics Service: Statistics and recommendations.
 
 6.3 Simplified Diagram
+
           ┌──────────────────┐
           │    API GATEWAY   │
           └──────────────────┘
