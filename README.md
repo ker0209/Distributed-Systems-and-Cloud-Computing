@@ -1,7 +1,3 @@
-
-📘RAPPORT DE PROJET
-Medifind – SIMPLIFIER ET OPTIMISER L'ACCÈS À L'INFORMATION SUR LA DISPONIBILITÉ ET LE PRIX DES MÉDICAMENTS
-________________________________________
 Université : ICT UNIVERSITY
 
 Département : Génie logiciel
@@ -10,7 +6,7 @@ Cours : Systèmes distribués et cloud computing
 
 Id cours : CS 4122
 
-Titre du projet : Medifind – Plateforme digital multicanaux pour simplifier et optimiser l'accès à l'information sur la disponibilité et le prix des médicaments 
+Titre du projet : MediFind : Plateforme Digitale de Localisation de Médicaments
 
 Étudiant : BOGNE FOUSSOM KERYAN MERVEIL
 
